@@ -331,14 +331,14 @@ header nav.mobile img,
 }
 
 #section1 .img_container {
-  width: 60%;
+  width: 55%;
   padding-right: 1.5rem;
 }
 
 /* SECTION 1 CONTENT FORM STYLES */
 
 #section1 .form_content {
-  width: 40%;
+  width: 45%;
   display: flex;
   justify-content: center;
 
