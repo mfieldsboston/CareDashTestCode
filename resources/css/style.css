@@ -394,6 +394,10 @@ header nav.mobile img,
     padding: 0.5rem 4rem;
 }
 
+#section1 .form_content button:hover {
+  background: #83a603;
+}
+
 .tab-content > div:last-child {
   display:none;
 }
@@ -516,11 +520,15 @@ header nav.mobile img,
 
 #section2 .caption button {
   background: #83a603;
-    border: 1px solid #688307;
+    border: 1px solid black;
     color: white;
     font-size: 1rem;
     margin-top: 1rem;
     padding: 0.2rem 1rem;
+}
+
+#section2 .caption button:hover {
+  background: rgb(10, 93, 103);
 }
 
 /* SECTION 2 CONTENT CONTAINER MEDIA QUERIES */
