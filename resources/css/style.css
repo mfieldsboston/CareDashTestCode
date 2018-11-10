@@ -349,6 +349,10 @@ header nav.mobile img,
   margin-bottom: 1rem;
 }
 
+#section1 .form_content .field-wrap.last {
+  margin-bottom: 2rem;
+}
+
 #section1 .form_content a,
 #section1 .form_content label {
   color: white;
@@ -373,7 +377,7 @@ header nav.mobile img,
   width: 100%;
   display: flex;
   justify-content: space-around;
-  margin-bottom: 1rem;
+  margin-bottom: 2rem;
 }
 
 #section1 .form .tab-group li {
