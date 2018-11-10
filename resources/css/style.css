@@ -340,7 +340,7 @@ header nav.mobile img,
   width: 45%;
   display: flex;
   justify-content: center;
-
+  padding-top: 4%;
 }
 
 #section1 .form_content .field-wrap {
