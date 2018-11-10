@@ -371,6 +371,10 @@ header nav.mobile img,
   padding-right: 1.5rem;
 }
 
+#section1 .img_container img {
+  border-radius: 4px;
+}
+
 /* SECTION 1 CONTENT FORM STYLES */
 
 #section1 .form_content {
