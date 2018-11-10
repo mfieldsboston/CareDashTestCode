@@ -37,6 +37,7 @@ footer nav a  {
 
 #section2 .caption p {
   font-size: .9rem;
+  text-align: center;
 }
 
 #section2 .container > h2 {
@@ -424,6 +425,7 @@ header nav.mobile img,
 
 #section2 .container > h2 {
   padding: 2rem 0;
+  text-align: center;
 }
 
 /* SECTION 1 CONTENT CONTAINER STYLES */
