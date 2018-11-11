@@ -46,7 +46,7 @@ $(document).ready(function(){
 
           var $this = $(this),
             label = $this.prev('label');
-            
+
           if (e.type === 'focus') {
   		    label.addClass('highlight');
         }
