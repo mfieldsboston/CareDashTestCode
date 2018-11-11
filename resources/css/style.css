@@ -461,6 +461,10 @@ header nav.mobile img,
   display:none;
 }
 
+#section1 .form_content label.highlight {
+  color: #ED8E32;
+}
+
 /*SECTION 2 CONTENT CONTAINER STYLES */
 
 #section2 .container {

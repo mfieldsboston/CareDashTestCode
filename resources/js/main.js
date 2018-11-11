@@ -42,4 +42,18 @@ $(document).ready(function(){
 
       });
 
+      $('.form').find('input, textarea').on('keyup blur focus', function (e) {
+
+          var $this = $(this),
+            label = $this.prev('label');
+            
+          if (e.type === 'focus') {
+  		    label.addClass('highlight');
+        }
+        else if (e.type === 'blur') {
+          label.removeClass('highlight');
+        }
+
+    });
+
 });
