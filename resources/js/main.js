@@ -49,11 +49,9 @@ $(document).ready(function(){
 
           if (e.type === 'focus') {
   		    label.addClass('highlight');
-            $this.addClass('highlight1');
         }
         else if (e.type === 'blur') {
           label.removeClass('highlight');
-          $this.removeClass('highlight1');
         }
 
     });
